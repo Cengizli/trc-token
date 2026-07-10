@@ -1,0 +1,10 @@
+{
+  "name": "Turco",
+  "symbol": "TRC",
+  "type": "BEP20",
+  "decimals": 18,
+  "website": "",
+  "description": "Turco Token",
+  "explorer": "https://bscscan.com/token/0xDF66fBFa6e27CFa624F9A266ec151121E40dAB09",
+  "status": "active"
+}
